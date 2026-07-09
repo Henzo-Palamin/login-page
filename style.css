@@ -1,0 +1,72 @@
+@charset "UTF-8";
+
+*{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.login{
+    margin-left: 550px;
+    border: 1px solid black;
+    width: 400px;
+    border-radius: 40px;
+    background: linear-gradient(#000,#2A0048,#560072,#800080);
+}
+
+.caixa{
+    text-align: left;
+    margin: 20px 0px 20px 65px; /*top right bottom left*/
+}
+
+h1{
+    font-size: 40px;
+    font-weight: normal;
+    color: #dbdbdb;
+}
+
+button{
+    margin: 20px 0px 20px 0px;
+    border-radius: 20px;
+    width: 200px;
+    height: 60px;
+    border: none;
+    color: #2A0048;
+    cursor: pointer;
+    background-color: aliceblue;
+    font-size: 18px;
+}
+button:hover{
+    border: 1px solid #333;
+    width: 190px;
+    height: 55px;
+    transition: 0.3s;
+}
+
+label {
+    margin: 0px;
+    font-size: 22px;
+    font-weight: bold;
+    color: #dbdbdb;
+}
+
+input{
+    border-radius: 20px;
+    border: none;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 18px;
+    height: 40px;
+    width: 270px;
+}
+
+input::placeholder{
+    border: none;
+}
+
+input::placeholder,
+textarea::placeholder {
+    color: #999;
+    background-color: aliceblue;
+    border-radius: 20px;
+}
+
