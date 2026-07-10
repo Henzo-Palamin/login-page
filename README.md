@@ -5,4 +5,4 @@ For it, I developed a login page where the user submits data such as Name, Email
 I haven't yet acquired the JavaScript skills to enhance this project further (such as displaying registered users)
 but I view this as an incentive to keep studying and deepening my programming knowledge.
 
-Live on: 
+Live on: https://henzo-palamin.github.io/login-page/
