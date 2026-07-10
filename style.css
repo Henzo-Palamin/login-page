@@ -9,7 +9,7 @@ body{
     background-color: rgb(240, 240, 240);
 }
 .login{
-    margin-left: 550px;
+    margin: auto;
     border: 1px solid black;
     width: 400px;
     border-radius: 40px;
